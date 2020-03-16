@@ -1,1 +1,8 @@
-$ $abaaba$
+$ $abbabb$
+
+
+X$ h
+h$ $
+$ $
+a a
+b b
