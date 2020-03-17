@@ -1,10 +1,16 @@
-$ $qaabbaabb$
+$ $qabba$
+
+
+
 qa aq
 qb bq
 aq qa
 bq qb
 
+aq$ r$
 
+ar ra
+br rb
 
 q$ h
 h$ $
