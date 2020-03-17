@@ -1,16 +1,22 @@
-$ $qabba$
+$ $abba$
 
 
 
+$a $q
 qa aq
 qb bq
-aq qa
-bq qb
+
+$b $p
+pa ap
+pb bp
 
 aq$ r$
+bp$ r$
 
 ar ra
 br rb
+
+$r $
 
 q$ h
 h$ $
