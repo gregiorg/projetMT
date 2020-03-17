@@ -1,4 +1,4 @@
-$ $abbaabba$
+$ $ababa$
 
 $a $q
 qa aq
