@@ -1,6 +1,4 @@
-$ $abba$
-
-
+$ $abbaabba$
 
 $a $q
 qa aq
@@ -18,7 +16,7 @@ br rb
 
 $r $
 
-q$ h
+r$ h
 h$ $
 $ $
 a a
