@@ -1,4 +1,4 @@
-$ $ababa$
+$ $abba$
 
 $a $q
 qa aq
@@ -8,15 +8,10 @@ $b $p
 pa ap
 pb bp
 
-aq$ r$
-bp$ r$
+aq$ $
+bp$ $
 
-ar ra
-br rb
-
-$r $
-
-r$ h
+$ h
 h$ $
 $ $
 a a

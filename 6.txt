@@ -1,13 +1,21 @@
-$ $qaabbaabb$
-qa aq
-qb bq
-aq qa
-bq qb
+$ $abbabb$
 
+$a $A
+$b $B
+Aa aA
+Ab bA
+Ba aB
+Bb bB
 
+Aa X
+Bb X
+AXa X
+BXb X
 
-q$ h
+X$ h
 h$ $
-$ $
 a a
 b b
+A A
+B B
+$ $
